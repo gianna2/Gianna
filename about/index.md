@@ -28,6 +28,7 @@ comments: false
 
 ## My Projects
 
-Explore my website to learn more about my projects and other experience.
+<center> Explore my website to learn more about<a href="http://gianna2.github.io/Gianna"><b>my projects</b></a>and other work.</center>
+
       
 {: .btn}
