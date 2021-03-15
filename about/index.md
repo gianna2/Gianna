@@ -1,24 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: My Portfolio
+tags: [about, Gianna, portfolio, resume, website, projects]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://gianna2.github.io/Gianna-Portfolio"><b>Gianna</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Skills
+* Leadership
+* Digital Marketing
+* Social media management
+* Career Coaching
+* Organizational Development
+* Remote team management 
+* Interpersonal skills
 
 ## Preview
 
@@ -28,10 +25,9 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+## My Projects
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Explore my website to learn more about my projects and other experience.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+{: .btn}
