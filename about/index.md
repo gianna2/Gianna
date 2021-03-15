@@ -28,7 +28,7 @@ comments: false
 
 ## My Projects
 
-<center> Explore my website to learn more about<a href="http://gianna2.github.io/Gianna"><b>my projects</b></a>and other work.</center>
+<center> Explore my website to learn more about<a href="http://gianna2.github.io/Gianna"><b> my projects </b></a>and other work.</center>
 
       
 {: .btn}
