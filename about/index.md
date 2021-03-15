@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://gianna2.github.io/Gianna-Portfolio"><b>Gianna</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://gianna2.github.io/Gianna-Portfolio"><b>Gianna</b></a> is currently a senior at Champlain College in Burlington, VT.</center>
 
 ## Skills
 * Leadership
