@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://gianna2.github.io/Gianna-Portfolio
+url:                https://gianna2.github.io/Gianna
 
 # Jekyll
 permalink:          /:title/
@@ -38,9 +38,9 @@ disqus_shortname:   gianna2
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         gianna2
+#twitter:            username
+#facebook:           username
+#github-url:         gianna2
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          Gianna Barnhart/username from "https://www.linkedin.com/in/giannabarnhart" link
 #xing:              username
@@ -50,7 +50,7 @@ instagram:          gianna_o2
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
